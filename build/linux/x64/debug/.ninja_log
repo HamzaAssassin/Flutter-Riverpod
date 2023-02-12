@@ -1,0 +1,54 @@
+# ninja log v5
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/libflutter_linux_gtk.so	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_value.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_view.h	1c34cbf0eb931ef8
+0	24675	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1c34cbf0eb931ef8
+0	24675	0	flutter/_phony_	1c34cbf0eb931ef8
+24677	26671	1676240180212283257	CMakeFiles/flutter_riverpod_implimentation.dir/flutter/generated_plugin_registrant.cc.o	f1e578919c2e2be0
+24675	26970	1676240180508294452	CMakeFiles/flutter_riverpod_implimentation.dir/main.cc.o	3c63f83af1f40b8
+24676	27025	1676240180568296722	CMakeFiles/flutter_riverpod_implimentation.dir/my_application.cc.o	adc2c003f777063f
+27025	27342	1676240180888308825	intermediates_do_not_run/flutter_riverpod_implimentation	7feb9282288fa8b0
+27342	27683	0	CMakeFiles/install.util	e5ae1ee240781289
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/libflutter_linux_gtk.so	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_engine.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_value.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/fl_view.h	1c34cbf0eb931ef8
+5	20058	0	/home/hamza/Flutter Projects/flutter_riverpod_implimentation/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	1c34cbf0eb931ef8
+5	20058	0	flutter/_phony_	1c34cbf0eb931ef8
+20059	21003	1676241131560093248	CMakeFiles/flutter_riverpod_implimentation.dir/flutter/generated_plugin_registrant.cc.o	f1e578919c2e2be0
+20059	21019	1676241131576093860	CMakeFiles/flutter_riverpod_implimentation.dir/my_application.cc.o	adc2c003f777063f
+21019	21258	1676241131820103199	intermediates_do_not_run/flutter_riverpod_implimentation	984c5b2fd2e40eac
+21258	21526	0	CMakeFiles/install.util	e5ae1ee240781289
